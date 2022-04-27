@@ -9,7 +9,7 @@ git clone <repo-url>
 ```
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements_orig.txt
 ```
 
 ## Running The App
